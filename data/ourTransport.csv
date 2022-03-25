@@ -1,0 +1,10 @@
+origin,destination,type,price,duration
+Philly,Trenton,train,5,60
+Philly,NYC,plane,50,30
+Philly,DC,train,20,180
+Trenton,Philly,train,5,60
+DC,Philly,train,20,180
+DC,NYC,train,20,300
+NYC,DC,train,20,300
+Trenton,NYC,train,15,120
+NYC,Trenton,train,15,120

@@ -1,0 +1,10 @@
+origin,destination,type,price,duration
+a,b,train,20,180
+b,a,train,20,180
+c,b,train,20,180
+b,c,train,20,180
+c,a,train,20,180
+a,c,train,20,180
+b,d,train,20,180
+c,d,train,20,180
+d,e,train,20,180

@@ -1,0 +1,7 @@
+origin,destination,type,price,duration
+NYC,Providence,train,20,180
+NYC,Boston,plane,200,60
+Boston,Providence,train,30,300
+Boston,NYC,plane,200,60
+Providence,Boston,train,30,300
+Providence,NYC,train,20,180
